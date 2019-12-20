@@ -3,9 +3,9 @@ const app = express()
 const port = process.env.PORT || 3000
 
 var student={}
-student.name="krishna"
-student.college="vnrvjiet"
-student.id="17071A12E4"
+student.name="Madishetty Sai Krishna"
+student.college="Vallurupalli Nagesh Rao Vignan Jyothi College"
+student.id="9849236443"
 
    //this line tells express to serve js or css files from frontend folder
 
